@@ -1,4 +1,4 @@
-# 👨‍💻 Yago OLiveira 
+# 👨‍💻 Yago Oliveira 
 
 **`Estudante de Engenharia de Software | Futuro Desenvolvedor`**
 
