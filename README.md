@@ -4,7 +4,7 @@
 
 Me chamo Yago Oliveira dos Santos, tenho 20 anos e sou natural de Brasília. Concluí o ensino médio em 2024. Atualmente, estou cursando Engenharia de Software na UBEC, no segundo semestre, e construindo uma base para me tornar um bom profissional no futuro.
 
-Sou apaixonado por tecnologia desde criança, sempre tive curiosidade sobre como a internet funciona — como uma mensagem pode chegar de um país a outro em milésimos de segundo — e sigo aprendendo programação para, no futuro, me tornar um profissional capaz de criar soluções inovadoras e, quem sabe, contribuir para mudar o mundo com algo que eu crie.
+Sou apaixonado por tecnologia desde criança, sempre tive curiosidade sobre como a internet funciona, como uma mensagem pode chegar de um país a outro em milésimos de segundo. E sigo aprendendo programação para, no futuro, me tornar um profissional capaz de criar soluções inovadoras e, quem sabe, contribuir para mudar o mundo com algo que eu crie.
 
 <p align="left">
 
