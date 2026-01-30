@@ -22,7 +22,6 @@
             src="https://custom-icon-badges.demolab.com/github/stars/YaGoSkktm?color=FFE680&style=for-the-badge&labelColor=FFF176&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/YaGoSkktm?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
