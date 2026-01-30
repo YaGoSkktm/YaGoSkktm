@@ -56,8 +56,8 @@
 
 <img 
   align="left" 
-  alt="VS Code" 
-  title="VS Code" 
+  alt="pandas" 
+  title="pandas" 
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
@@ -65,8 +65,8 @@
 
 <img 
   align="left" 
-  alt="VS Code" 
-  title="VS Code" 
+  alt="matplotlib" 
+  title="matplotlib" 
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
@@ -74,8 +74,8 @@
 
 <img 
   align="left" 
-  alt="VS Code" 
-  title="VS Code" 
+  alt="scikitlearn" 
+  title="scikitlearn" 
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
