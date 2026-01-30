@@ -2,8 +2,16 @@
 
 **`Software Engineering student`**
 
-Hello! I'm Yago, a Software Engineering student focused on Machine Learning and Python. 
-🤖 Currently exploring libraries like Pandas, NumPy, and Scikit-learn for data analysis and AI.
+<div align="center">
+  <h2>About me</h2>
+  <p>
+    Hello! I'm Yago, a Software Engineering student focused on Machine Learning and Python. 🤖<br>
+    I am passionate about Data Science and I like to explore libraries like Pandas and Scikit-learn. 🧠
+  </p>
+  <p>
+    My name is Yago Oliveira, Im 20 years old and currently studying at UCB.
+  </p>
+</div>
 
 <p align="left">
 
