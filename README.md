@@ -5,8 +5,8 @@
 <div align="center">
   <h2>About me</h2>
   <p>
-    Hello! I'm Yago, a Software Engineering student focused on Machine Learning and Python. 🤖<br>
-    I am passionate about Data Science and I like to explore libraries like Pandas and Scikit-learn. 🧠
+    Hello! I'm Yago, a Software Engineering student focused on Machine Learning and Python. <br>
+    I am passionate about Data Science and I like to explore libraries like Pandas and Scikit-learn. 
   </p>
   <p>
     My name is Yago Oliveira, Im 20 years old and currently studying at UCB.
@@ -34,7 +34,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 languages ​​and technologies
 
 <img 
     align="left" 
@@ -45,20 +45,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img
+    rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+/>
 
 <br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YaGoSkktm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-
-</p>
