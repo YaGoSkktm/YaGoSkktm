@@ -56,29 +56,31 @@
 
 <img 
   align="left" 
-  alt="CSS3" 
-  title="CSS3" 
+  alt="VS Code" 
+  title="VS Code" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
 
 <img 
   align="left" 
-  alt="Devicon" 
-  title="Devicon" 
+  alt="VS Code" 
+  title="VS Code" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
 />
 
 <img 
   align="left" 
-  alt="CSS3" 
-  title="CSS3" 
+  alt="VS Code" 
+  title="VS Code" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
 />
 
+            
+          
 <br/>
